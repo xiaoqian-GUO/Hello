@@ -1,0 +1,36 @@
+{
+    "author": "Xiaoqian Guo <cynthia.xiaoqianGuo@gmail.com>",
+    "description": "这是一个简单的数据目录结构",
+    "extension": null,
+    "generator": "site",
+    "isbn": "",
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        },
+        "sidebar": {
+            "Xiaoqian's Blog": "http://www.chengweiyang.cn"
+        }
+    },
+    "output": null,
+    "pdf": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": false,
+        "paperSize": "a4"
+    },
+    "plugins": [],
+    "title": "晓倩的博客",
+    "variables": {}
+}
